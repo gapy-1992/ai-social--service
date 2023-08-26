@@ -1,7 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GlobalVariableEntities>
-   <description></description>
-   <name>default</name>
-   <tag></tag>
-   <defaultProfile>true</defaultProfile>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'testdemo'</initValue>
+        <name>username</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'saucedemop'</initValue>
+        <name>password</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://ai-fill-form.vercel.app'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>True</defaultProfile>
+    <description></description>
+    <name>default</name>
+    <tag></tag>
 </GlobalVariableEntities>

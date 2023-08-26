@@ -1,0 +1,7 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on body_object
+step 3: At Page_home click on button_object --> navigate to Page_dvc-login
+step 4: Add visual checkpoint at Page_dvc-login",High
+2,"step 1: Navigate to Page_contact
+step 2: Add visual checkpoint at Page_contact",Low
