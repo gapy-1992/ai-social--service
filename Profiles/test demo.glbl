@@ -2,21 +2,21 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>''testdemo''</initValue>
+        <initValue>'loc.thnguyen@katalon.com'</initValue>
         <name>username</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>''saucedemop''</initValue>
+        <initValue>'Auvjdaj1992@'</initValue>
         <name>password</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>''https://ai-fill-form.vercel.app''</initValue>
+        <initValue>'https://locthn-fill-form.vercel.app'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
-    <defaultProfile>False</defaultProfile>
+    <defaultProfile>True</defaultProfile>
     <description></description>
-    <name>default</name>
+    <name>test demo</name>
     <tag></tag>
 </GlobalVariableEntities>

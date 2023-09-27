@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page_contact'
+'step 1: Navigate to Page home'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/contact')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
 
-'step 2: Add visual checkpoint at Page_contact'
+'step 2: Add visual checkpoint at Page home'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00001_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Page Home is Displayed_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
